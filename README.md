@@ -6,7 +6,7 @@ O projeto foi criado como uma solução própria de gestão e também como proje
 
 ## Status
 
-🚧 **Em desenvolvimento**
+ **Em desenvolvimento**
 
 ## Principais módulos
 
