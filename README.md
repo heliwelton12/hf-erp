@@ -28,6 +28,44 @@ O projeto foi criado como uma solução própria de gestão e também como proje
 - Configurações e backup
 - Consulta de Ordem de Serviço
 
+## Telas do sistema
+
+### Dashboard
+
+Visão geral do negócio com indicadores e atalhos para os principais módulos.
+
+![Dashboard do HF ERP](docs/screenshots/dashboard.png)
+
+### Caixa / PDV
+
+Tela de vendas com busca de produtos, carrinho e fluxo de finalização.
+
+![Caixa e PDV do HF ERP](docs/screenshots/caixa-pdv.png)
+
+### Ordens de Serviço
+
+Gerenciamento de ordens de serviço, acompanhamento de status e informações do atendimento.
+
+![Ordens de Serviço do HF ERP](docs/screenshots/ordens-servico.png)
+
+### Produtos
+
+Cadastro e gerenciamento de produtos, preços e informações de estoque.
+
+![Produtos do HF ERP](docs/screenshots/produtos.png)
+
+### Estoque
+
+Controle de movimentações e acompanhamento do estoque.
+
+![Estoque do HF ERP](docs/screenshots/estoque.png)
+
+### Financeiro
+
+Visão financeira do sistema com informações de vendas e movimentações.
+
+![Financeiro do HF ERP](docs/screenshots/financeiro.png)
+
 ## Tecnologias
 
 ### Frontend
