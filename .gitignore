@@ -4,3 +4,15 @@ __pycache__/
 .vscode/
 dist/
 build/
+.venv/
+.next/
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+backend/backups/
+*.sql
+backend/package-lock.json
