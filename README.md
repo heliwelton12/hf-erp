@@ -1,12 +1,32 @@
+<div align="center">
+
 # HF ERP
 
-Sistema de gestão em desenvolvimento para uma futura papelaria e loja de serviços, com foco em centralizar operações de **papelaria, informática, impressão, acessórios e serviços** em uma única aplicação.
+### Sistema Full Stack de gestão para papelaria, informática e serviços
 
-O projeto foi criado como uma solução própria de gestão e também como projeto prático de desenvolvimento full stack.
+Projeto em desenvolvimento para centralizar operações de **vendas, estoque, clientes, ordens de serviço, fornecedores e financeiro** em uma única aplicação.
 
-## Status
+<br>
 
- **Em desenvolvimento**
+<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-0EA5E9?style=for-the-badge" alt="Em desenvolvimento" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,python,fastapi,postgres" alt="Next.js, React, TypeScript, Tailwind CSS, Python, FastAPI e PostgreSQL" />
+
+</div>
+
+---
+
+## Sobre o projeto
+
+O **HF ERP** nasceu da ideia de desenvolver um sistema próprio para uma futura papelaria e loja de serviços.
+
+A proposta é reunir, em uma única plataforma, recursos de atendimento, vendas, estoque, serviços de informática e controle financeiro, permitindo que o sistema evolua conforme as necessidades reais do negócio.
+
+Além de atender a uma necessidade prática, o projeto também funciona como aplicação de estudos em desenvolvimento **Full Stack**, integração entre frontend e backend, APIs, banco de dados e regras de negócio.
+
+---
 
 ## Principais módulos
 
@@ -27,6 +47,8 @@ O projeto foi criado como uma solução própria de gestão e também como proje
 - Fechamento de caixa
 - Configurações e backup
 - Consulta de Ordem de Serviço
+
+---
 
 ## Telas do sistema
 
@@ -66,9 +88,16 @@ Visão financeira do sistema com informações de vendas e movimentações.
 
 ![Financeiro do HF ERP](docs/screenshots/financeiro.png)
 
+---
+
 ## Tecnologias
 
 ### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" alt="Next.js, React, TypeScript e Tailwind CSS" />
+</p>
+
 - Next.js 16
 - React 19
 - TypeScript
@@ -76,6 +105,11 @@ Visão financeira do sistema com informações de vendas e movimentações.
 - Lucide React
 
 ### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi" alt="Python e FastAPI" />
+</p>
+
 - Python
 - FastAPI
 - SQLAlchemy
@@ -84,8 +118,15 @@ Visão financeira do sistema com informações de vendas e movimentações.
 - python-dotenv
 
 ### Banco de dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+</p>
+
 - PostgreSQL
 - psycopg2
+
+---
 
 ## Estrutura do projeto
 
@@ -111,6 +152,8 @@ hf-erp/
 ├── docs/
 └── README.md
 ```
+
+---
 
 ## Como executar localmente
 
@@ -169,6 +212,8 @@ A aplicação ficará disponível em:
 http://localhost:3000
 ```
 
+---
+
 ## Segurança
 
 Arquivos locais e sensíveis não devem ser versionados, incluindo:
@@ -183,13 +228,22 @@ Arquivos locais e sensíveis não devem ser versionados, incluindo:
 
 Use o arquivo `backend/.env.example` apenas como modelo de configuração.
 
-## Objetivo do projeto
-
-O HF ERP nasceu da ideia de desenvolver um sistema próprio para uma futura papelaria e loja de serviços. O objetivo é reunir, em uma única plataforma, recursos de atendimento, vendas, estoque, serviços de informática e controle financeiro, permitindo evoluir o sistema conforme as necessidades reais do negócio.
+---
 
 ## Autor
 
+<div align="center">
+
 **Heliwelton Fernandes**
 
-- LinkedIn: https://www.linkedin.com/in/heliweltondev
-- GitHub: https://github.com/heliwelton12
+<br>
+
+<a href="https://www.linkedin.com/in/heliweltondev/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/heliwelton12">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
